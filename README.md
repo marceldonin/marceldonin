@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/marceldonin)](https://github.com/marceldonin)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marceldonin/)](https://www.linkedin.com/in/marceldonin/)
 
-![Marcel's GitHub stats](https://github-readme-stats.vercel.app/api?username=marceldonin&show_icons=true&theme=default)
+![marcelDonin's GitHub stats](https://github-readme-stats.vercel.app/api?username=marceldonin&hide=contribs,prs)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marceldonin&layout=compact)](https://github.com/marceldonin/github-readme-stats)
 
 
