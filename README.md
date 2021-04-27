@@ -10,6 +10,16 @@
 - 💬 about me ...
 I'm a {Hypnologist and Neurolinguistic Programmer} Still Working at [VencerSucesso.PNL](https://www.pnl.marceldonin.com).
 ___
+
+- ⚡ My Skills:
+
+![html5-50](https://user-images.githubusercontent.com/83168668/116250100-ceda6a00-a743-11eb-867d-8526e409d23d.png)
+![css3-50](https://user-images.githubusercontent.com/83168668/116250091-ce41d380-a743-11eb-9f7a-e6829acae8bd.png)
+![git-50](https://user-images.githubusercontent.com/83168668/116250097-ce41d380-a743-11eb-9413-564cf5d29cee.png)
+![github-50](https://user-images.githubusercontent.com/83168668/116250098-ceda6a00-a743-11eb-9dd3-b853b3f012d8.png)
+![js-50](https://user-images.githubusercontent.com/83168668/116250103-cf730080-a743-11eb-8308-41c54ba399fd.png)
+
+___
 - 📫 How to reach me:
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/marceldonin)](https://github.com/marceldonin)
@@ -37,3 +47,4 @@ Here are some ideas to get you started:
 - 
 
 -->
+
