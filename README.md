@@ -4,11 +4,11 @@
 
 
 
-- 🔭 I’m currently working on VencerSucesso.PNL ()
+- 🔭 I’m currently working on VencerSucesso.PNL and [Website Creation](https://www.marceldonin.com)
 - 🌱 I’m currently learning HTML/CSS and JavaScript
 - 👌 My goals are Study: html, css, javaScript, React, Python, SQL and PHP.
 - 💬 about me ...
-I'm a {Hypnologist and Neurolinguistic Programmer} Still Working at [@VencerSucesso.PNL](https://www.pnl.marceldonin.com).
+I'm a {Hypnologist and Neurolinguistic Programmer} Still Working at [VencerSucesso.PNL](https://www.pnl.marceldonin.com).
 ___
 - 📫 How to reach me:
 
