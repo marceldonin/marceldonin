@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on VencerSucesso.PNL and [Website Creation](https://www.marceldonin.com)
 - 🌱 I’m currently learning HTML/CSS and JavaScript
-- 👌 My goals are Study: HTML, CSS, javaScript, React, Python, SQL and PHP.
+- 👌 My goals are to study: HTML, CSS, javaScript, React, Python, SQL and PHP.
 - 💬 about me ...
 I'm a {Hypnologist and Neurolinguistic Programmer} Still Working at [VencerSucesso.PNL](https://www.pnl.marceldonin.com).
 ___
