@@ -26,7 +26,7 @@ ___
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/marceldonin)](https://github.com/marceldonin)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marceldonin/)](https://www.linkedin.com/in/marceldonin/)
-[PORTFOLIO](https://marceldonin.github.io/Portfolio/Site-Portfolio/index.html)
+[PORTFOLIO](https://marceldonin.github.io/Portfolio/Site-Portfolio/index.html)_blank
 ___
 - My Stats at GitHub:
 
