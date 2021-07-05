@@ -32,6 +32,10 @@ ___
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marceldonin&layout=compact)](https://github.com/marceldonin/github-readme-stats)
 ![marcelDonin's GitHub stats](https://github-readme-stats.vercel.app/api?username=marceldonin&hide=contribs,prs)
+
+[![MarcelDonin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=marceldonin)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ___
 
 
