@@ -28,13 +28,12 @@ ___
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marceldonin/)](https://www.linkedin.com/in/marceldonin/)
 [⚡PORTFOLIO⚡](https://marceldonin.github.io/Portfolio/Site-Portfolio/index.html)
 ___
-- My Stats at GitHub:
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marceldonin&layout=compact)](https://github.com/marceldonin/github-readme-stats)
-![marcelDonin's GitHub stats](https://github-readme-stats.vercel.app/api?username=marceldonin&hide=contribs,prs)
+- My Stats at:
 
 [![MarcelDonin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=marceldonin)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marceldonin&layout=compact)](https://github.com/marceldonin/github-readme-stats)
 
+[![marcelDonin's GitHub stats](https://github-readme-stats.vercel.app/api?username=marceldonin&hide=contribs,prs)]
 
 ___
 
