@@ -10,6 +10,22 @@ ___
 
 - ⚡ My Skills:
 
+![figma](https://github.com/marceldonin/marceldonin/blob/main/perfil-igm/figma.png)
+![gimp](https://github.com/marceldonin/marceldonin/blob/main/perfil-igm/gimp.png)
+![canva](https://github.com/marceldonin/marceldonin/blob/main/perfil-igm/canva.png)
+![VScode](https://github.com/marceldonin/marceldonin/blob/main/perfil-igm/VScode.png)
+![wordpress](https://github.com/marceldonin/marceldonin/blob/main/perfil-igm/wordpress.png)
+![html](https://raw.githubusercontent.com/marceldonin/marceldonin/main/perfil-igm/html.png)
+![css](https://github.com/marceldonin/marceldonin/blob/main/perfil-igm/css.png)
+![javascript](https://github.com/marceldonin/marceldonin/blob/main/perfil-igm/javascript.png)
+![kali-linux](https://github.com/marceldonin/marceldonin/blob/main/perfil-igm/kali-linux.png)
+![git](https://github.com/marceldonin/marceldonin/blob/main/perfil-igm/git.png)
+![github](https://github.com/marceldonin/marceldonin/blob/main/perfil-igm/github.png)
+
+
+
+
+
 ![logo-canva-50](https://freelogopng.com/images/all_img/1656733637logo-canva-png.png)
 ![logo-gimp-50](https://user-images.githubusercontent.com/83168668/116251941-815efc80-a745-11eb-91c7-ceda459ccd7f.png)
 ![WordPress_blue_logo-50](https://user-images.githubusercontent.com/83168668/116251189-d3535280-a744-11eb-8358-ece69bc01060.png)
