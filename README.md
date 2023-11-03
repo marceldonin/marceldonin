@@ -25,16 +25,6 @@ ___
 
 
 
-
-![logo-canva-50](https://freelogopng.com/images/all_img/1656733637logo-canva-png.png)
-![logo-gimp-50](https://user-images.githubusercontent.com/83168668/116251941-815efc80-a745-11eb-91c7-ceda459ccd7f.png)
-![WordPress_blue_logo-50](https://user-images.githubusercontent.com/83168668/116251189-d3535280-a744-11eb-8358-ece69bc01060.png)
-![git-50](https://user-images.githubusercontent.com/83168668/116250097-ce41d380-a743-11eb-9413-564cf5d29cee.png)
-![github-50](https://user-images.githubusercontent.com/83168668/116250098-ceda6a00-a743-11eb-9dd3-b853b3f012d8.png)
-![html5-50](https://user-images.githubusercontent.com/83168668/116250100-ceda6a00-a743-11eb-867d-8526e409d23d.png)
-![css3-50](https://user-images.githubusercontent.com/83168668/116250091-ce41d380-a743-11eb-9f7a-e6829acae8bd.png)
-![js-50](https://user-images.githubusercontent.com/83168668/116250103-cf730080-a743-11eb-8308-41c54ba399fd.png)
-
 ___
 - 📫 How to reach me:
 
