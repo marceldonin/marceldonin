@@ -4,11 +4,8 @@
 
 
 
-- 🔭 I’m currently working on [Website Creation](https://www.ncon.eng.br)
-- 🌱 I’m currently learning HTML/CSS and JavaScript
-- 👌 My goals are to study: Java e Kotlin.
-- 💬 about me ...
-
+- 🔭 I’m currently working on [AI/UX/UI Designer | Front-End Developer | Designer Graphic](https://www.ncon.eng.br)
+- AI/UX/UI Designer | Front-End Developer | WordPress | HTML | CSS | JavaScript | Scrum | CyberSecurity | Kali Linux | Inglês B1 | Italiano B1 | Português C2
 ___
 
 - ⚡ My Skills:
