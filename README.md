@@ -4,7 +4,8 @@
 
 
 
-- 🔭 I’m currently working on [NCON® ENGENHARIA & TECNOLOGIA](https://www.ncon.eng.br)  with AI/UX/UI Designer | Front-End Developer | Designer Graphic
+- 🔭 I’m currently working on [NCON® ENGENHARIA & TECNOLOGIA](https://www.ncon.eng.br)
+  with AI/UX/UI Designer | Front-End Developer | Designer Graphic
 - AI/UX/UI Designer | Front-End Developer | WordPress | HTML | CSS | JavaScript | Scrum | CyberSecurity | Kali Linux | Inglês B1 | Italiano B1 | Português C2
 ___
 
