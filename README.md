@@ -35,7 +35,8 @@ ___
 ___
 - Projects / Portfolio:
   
-  [Desafio 04 - Recriando a Interface do Netflix - HTML|CSS|JavaScript|BootStrap](https://marceldonin.github.io/Bootcamp-HTML-Web-Developer/Desafio04MarvelFlix.html)
+  [Desafio 04 - MarvelFlix - HTML|CSS|JavaScript|BootStrap](https://marceldonin.github.io/Bootcamp-HTML-Web-Developer/Desafio04MarvelFlix.html)
+  [Desafio 07 - Snake Game - HTML|CSS|JavaScript](https://marceldonin.github.io/Bootcamp-HTML-Web-Developer/Desafio07Cobrinha.html)
   
 ___
 - My Stats at:
