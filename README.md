@@ -34,7 +34,9 @@ ___
 [⚡PORTFOLIO⚡](https://marceldonin.github.io/PORTFOLIO-CERTIFICATION/)
 ___
 - Projects / Portfolio:
-  ![Desafio 04 - Recriando a Interface do Netflix - HTML|CSS|JavaScript|BootStrap](https://marceldonin.github.io/Bootcamp-HTML-Web-Developer/Desafio04MarvelFlix.html)
+  
+  [Desafio 04 - Recriando a Interface do Netflix - HTML|CSS|JavaScript|BootStrap](https://marceldonin.github.io/Bootcamp-HTML-Web-Developer/Desafio04MarvelFlix.html)
+  
 ___
 - My Stats at:
 
