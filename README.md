@@ -36,7 +36,11 @@ ___
 - Projects / Portfolio:
   
 -[MarvelFlix - HTML|CSS|JavaScript|BootStrap:](https://marceldonin.github.io/Bootcamp-HTML-Web-Developer/Desafio04MarvelFlix.html)  
--[Snake Game - HTML|CSS|JavaScript:](https://marceldonin.github.io/Bootcamp-HTML-Web-Developer/Desafio07Cobrinha.html)  
+-[Snake Game - HTML|CSS|JavaScript:](https://marceldonin.github.io/Bootcamp-HTML-Web-Developer/Desafio07Cobrinha.html) 
+-[Wikepedia Universo Marvel - HTML|CSS|JavaScript:](https://marceldonin.github.io/Formacao-HTML-Web-Developer/DESAFIO03_01home.html) 
+-[EDUARDO MARTINI - Clínica Médica - HTML|CSS:](https://marceldonin.github.io/Formacao-HTML-Web-Developer/desafio02_01home.html) 
+
+
   
 ___
 - My Stats at:
